@@ -1,3 +1,7 @@
+module Rsa
+
+where
+
 
 encode::Integer->Integer->Integer->Integer
 encode n e m = mod me  n
